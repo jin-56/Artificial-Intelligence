@@ -1,4 +1,4 @@
-**Artificial Intelligence Projects**
+## Artificial Intelligence Projects
 
 Welcome to the **Artificial Intelligence Projects** repository.
 This repository contains a collection of AI projects showcasing Streamlit apps, Retrieval-Augmented Generation (RAG) tools, and Agentic AI systems are designed for learning and experimentation.
