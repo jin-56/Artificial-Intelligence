@@ -2,3 +2,9 @@
 venv/
 __pycache__/
 documents/
+
+#NLP files
+spam.csv
+vectorizer.pkl
+spam-classifier.pkl
+Document_Classification_Model.pkl
