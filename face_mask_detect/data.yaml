@@ -1,0 +1,6 @@
+train: data/image/train/images
+val: data/image/valid/images
+test: data/image/test/images
+
+nc: 2
+names: ['mask', 'no_mask']
