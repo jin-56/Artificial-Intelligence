@@ -1,0 +1,7 @@
+path: ../face_mask_detect/data #dataset root dir
+train: image/train # train images
+val: image/valid # val images
+test: image/test # test images (optional)
+
+nc: 2  # number of classes
+names: ["with_mask", "without_mask"]
